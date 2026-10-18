@@ -83,7 +83,7 @@ events and deliver logs to Amazon S3. Log-file validation was enabled.
 | EC2 instance health checks | PASS |
 | Public HTTP connectivity | PASS |
 | Authorized SSH connectivity | PASS |
-| CloudWatch CPU monitoring | PASS |
+| CloudWatch CPU monitoring | VERIFIED |
 | CloudTrail management-event logging | PASS |
 | Public/private routing configuration | VERIFIED |
 
