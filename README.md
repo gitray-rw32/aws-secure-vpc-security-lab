@@ -43,7 +43,7 @@ management-event auditing.
 | Monitoring | Amazon CloudWatch |
 | Audit Logging | AWS CloudTrail |
 
-![AWS Secure VPC Architecture](architecture/AWS secure architecture project diagram.png). 
+![AWS Secure VPC Architecture](AWS%20secure%20architecture%20project%20diagram.png)
 
 ## Security Controls
 
