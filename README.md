@@ -89,7 +89,7 @@ events and deliver logs to Amazon S3. Log-file validation was enabled.
 
 The private subnet's isolation was evaluated through route table
 and network ACL configuration review. A separate live connectivity
-test from a private-subnet workload was not performed.
+test from a private-subnet workload was not performed.The CloudWatch CPU alarm configuration was reviewed, but an actual high-CPU alarm trigger was not tested.
 
 ## Key Learning Outcomes
 
